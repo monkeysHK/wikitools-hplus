@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wikitools-hplus",
+  "name": "WikiTools H+",
+  "description": "A mod to render images for use on Minecraft based Wikis. (H+ Model)",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Michael Priebe","Charzard4261","MonkeysHK"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
