@@ -1,5 +1,5 @@
 # WikiTools H+
-WikiTools H+ is forked from WikiTools maintained by Charzard4261. WikiTools H+ caters for Minecraft wikis using the H+ Model, since it follows H+ Model syntax instead of the Basic Model syntax.
+WikiTools H+ is forked from [WikiTools maintained by Charzard4261](https://github.com/Charzard4261/wikitools). WikiTools H+ caters for Minecraft wikis using the H+ Model, since it follows H+ Model syntax instead of the Basic Model syntax.
 
 ## WikiTools
 Minecraft mod to copy NBT, render entities and other things.
